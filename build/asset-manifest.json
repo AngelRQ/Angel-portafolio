@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Angel-portafolio/build/static/css/main.f20a2ab3.css",
+    "main.js": "/Angel-portafolio/build/static/js/main.391ee351.js",
+    "static/media/viewTravel.png": "/Angel-portafolio/build/static/media/viewTravel.917d84b97ce6eb61e406.png",
+    "static/media/site-bg.jpg": "/Angel-portafolio/build/static/media/site-bg.54724d703024833ef9c6.jpg",
+    "static/media/michisBurger.png": "/Angel-portafolio/build/static/media/michisBurger.37c7b9016bbaa792b1ee.png",
+    "static/media/michisVet.png": "/Angel-portafolio/build/static/media/michisVet.2ef42cd1308fe967f354.png",
+    "static/media/about.png": "/Angel-portafolio/build/static/media/about.21e892347e4788f04542.png",
+    "static/media/logoARQ.png": "/Angel-portafolio/build/static/media/logoARQ.aaab91b25ee9d1f4c707.png",
+    "index.html": "/Angel-portafolio/build/index.html",
+    "main.f20a2ab3.css.map": "/Angel-portafolio/build/static/css/main.f20a2ab3.css.map",
+    "main.391ee351.js.map": "/Angel-portafolio/build/static/js/main.391ee351.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f20a2ab3.css",
+    "static/js/main.391ee351.js"
+  ]
+}
